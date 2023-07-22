@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Tweetbook1.props" />
+</Project>
