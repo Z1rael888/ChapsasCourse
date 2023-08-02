@@ -40,17 +40,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "Cosmonaut": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
-              "version": "[3.0.0-preview1, )"
-            },
-            "Cosmonaut.Extensions.Microsoft.DependencyInjection": {
-              "target": "Package",
-              "version": "[2.3.0, )"
-            },
-            "Humanizer.Core": {
-              "target": "Package",
-              "version": "[2.14.1, )"
+              "version": "[6.0.20, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",

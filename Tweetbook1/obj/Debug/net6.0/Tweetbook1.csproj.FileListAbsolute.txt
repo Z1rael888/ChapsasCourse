@@ -96,3 +96,4 @@ C:\Users\alexg\source\repos\Tweetbook1\Tweetbook1\bin\Debug\net6.0\runtimes\win\
 C:\Users\alexg\source\repos\Tweetbook1\Tweetbook1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\alexg\source\repos\Tweetbook1\Tweetbook1\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
 C:\Users\alexg\source\repos\Tweetbook1\Tweetbook1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\alexg\source\repos\Tweetbook1\Tweetbook1\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
